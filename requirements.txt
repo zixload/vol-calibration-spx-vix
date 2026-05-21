@@ -1,0 +1,8 @@
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+matplotlib>=3.7
+yfinance>=0.2.40
+QuantLib-Python>=1.32
+jupyter>=1.0
+notebook>=7.0
