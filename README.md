@@ -44,3 +44,7 @@ jupyter notebook notebook.ipynb
 - Hagan et al. (2002). Managing smile risk. The Best of Wilmott.
 - Heston (1993). A closed-form solution for options with stochastic volatility. RFS.
 - Andersen (2007). Efficient Simulation of the Heston Stochastic Volatility Model. SSRN 946405.
+
+## Contributors
+- @zixload
+- @huoshisei
