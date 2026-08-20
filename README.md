@@ -1,9 +1,5 @@
 # Calibration of SABR and Heston Models on SPX and VIX Options
 
-M2 Risk and Asset Management — ENSIIE / Université Paris-Saclay (2025–2026)  
-Inès Chakib, Cyril Zaki, Gabriel Lopez, Luca Silva  
-Supervisor: Sergio Pulido
-
 ## Overview
 
 Comparison of SABR and Heston stochastic volatility models calibrated on real SPX and VIX out-of-the-money call options. Each model is tested under a standard (SPX-only) and a joint (SPX + VIX) calibration. The analysis is based on a fixed market snapshot dated 2026-04-09, stored in `data/` for full reproducibility.
@@ -45,6 +41,4 @@ jupyter notebook notebook.ipynb
 - Heston (1993). A closed-form solution for options with stochastic volatility. RFS.
 - Andersen (2007). Efficient Simulation of the Heston Stochastic Volatility Model. SSRN 946405.
 
-## Contributors
-- @zixload
-- @huoshisei
+
